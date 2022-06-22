@@ -1,6 +1,7 @@
 *.log
-bin/cmder/config/user-ConEmu.xml
-bin/cmder/config/.history
 tmp/**
 bin/cmder/config/.history
-bin/cmder/vendor/conemu-maximus5/ConEmu.xml
+ConEmu.xml
+user-ConEmu.xml
+session.xml
+bin/laragon/laragon.cmd
