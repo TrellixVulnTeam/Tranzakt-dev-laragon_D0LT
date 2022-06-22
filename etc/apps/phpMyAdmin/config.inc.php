@@ -13,7 +13,7 @@ declare(strict_types=1);
  * This is needed for cookie based authentication to encrypt password in
  * cookie. Needs to be 32 chars long.
  */
-$cfg['blowfish_secret'] = 'qbphPdrDatJNqn$Wuzmw'; /* YOU MUST FILL IN THIS FOR COOKIE AUTH! */
+$cfg['blowfish_secret'] = 'XFTvmDP&kt61va3W*fB^r3rP*h1rT67c'; /* YOU MUST FILL IN THIS FOR COOKIE AUTH! */
 
 /**
  * Servers configuration
@@ -32,7 +32,7 @@ $cfg['Servers'][$i]['compress'] = false;
 $cfg['Servers'][$i]['AllowNoPassword'] = true;
 $cfg['Servers'][$i]['port'] = 3306;
 /*
- * Laragon: set phpmyadmin to not timeout so quickly 
+ * Laragon: set phpmyadmin to not timeout so quickly
  */
 $cfg['LoginCookieValidity'] = 36000;
 
