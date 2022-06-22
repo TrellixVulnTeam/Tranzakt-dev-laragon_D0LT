@@ -1,6 +1,7 @@
+/**/tmp/
+
 *.log
-tmp/**
-bin/cmder/config/.history
+.history
 ConEmu.xml
 user-ConEmu.xml
 session.xml
