@@ -6,3 +6,4 @@ ConEmu.xml
 user-ConEmu.xml
 session.xml
 bin/laragon/laragon.cmd
+bin/mysql/mariadb-10.8-winx64/data/
