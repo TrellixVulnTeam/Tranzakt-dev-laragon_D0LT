@@ -2,3 +2,15 @@
 2022-06-18 22:44:57: nothing
 2022-06-18 22:44:59: nothing
 2022-06-18 23:21:51: nothing
+2022-07-02 23:59:36: Graceful shutdown failed!!! Did you change the root's password? - trying to force it shutdown...
+ERROR: C:\Laragon\bin\mysql\mariadb-10.8-winx64\bin\mysqladmin: connect to server at 'localhost' failed
+error: 'Access denied for user 'root'@'localhost' (using password: YES)'
+
+2022-07-03 00:02:43: Graceful shutdown failed!!! Did you change the root's password? - trying to force it shutdown...
+ERROR: C:\Laragon\bin\mysql\mariadb-10.8-winx64\bin\mysqladmin: connect to server at 'localhost' failed
+error: 'Access denied for user 'root'@'localhost' (using password: YES)'
+
+2022-07-03 00:04:52: Graceful shutdown failed!!! Did you change the root's password? - trying to force it shutdown...
+ERROR: C:\Laragon\bin\mysql\mariadb-10.8-winx64\bin\mysqladmin: connect to server at 'localhost' failed
+error: 'Access denied for user 'root'@'localhost' (using password: YES)'
+

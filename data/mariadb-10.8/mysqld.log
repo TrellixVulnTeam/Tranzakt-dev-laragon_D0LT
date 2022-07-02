@@ -1,11 +1,18 @@
-2022-07-02 22:30:27 4 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
-2022-07-02 22:30:34 0 [Note] console_event_handler: received CTRL_BREAK_EVENT event, shutting down
-2022-07-02 22:30:34 0 [Note] C:\Laragon\bin\mysql\mariadb-10.8-winx64\bin\mysqld (initiated by: unknown): Normal shutdown
-2022-07-02 22:30:34 0 [Note] InnoDB: FTS optimize thread exiting.
-2022-07-02 22:30:34 0 [Note] InnoDB: Starting shutdown...
-2022-07-02 22:30:34 0 [Note] InnoDB: Dumping buffer pool(s) to C:\Laragon\bin\mysql\mariadb-10.8-winx64\data\ib_buffer_pool
-2022-07-02 22:30:34 0 [Note] InnoDB: Buffer pool(s) dump completed at 220702 22:30:34
-2022-07-02 22:30:34 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
-2022-07-02 22:30:34 0 [Note] InnoDB: Shutdown completed; log sequence number 46746; transaction id 15
-2022-07-02 22:30:34 0 [Note] C:\Laragon\bin\mysql\mariadb-10.8-winx64\bin\mysqld: Shutdown complete
-
+2022-07-03  0:28:39 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-07-03  0:28:39 0 [Note] InnoDB: Number of transaction pools: 1
+2022-07-03  0:28:39 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2022-07-03  0:28:39 0 [Note] InnoDB: Initializing buffer pool, total size = 128.000MiB, chunk size = 2.000MiB
+2022-07-03  0:28:39 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-07-03  0:28:39 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2022-07-03  0:28:39 0 [Note] InnoDB: 128 rollback segments are active.
+2022-07-03  0:28:39 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2022-07-03  0:28:39 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2022-07-03  0:28:39 0 [Note] InnoDB: log sequence number 46643; transaction id 14
+2022-07-03  0:28:39 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-07-03  0:28:39 0 [Note] InnoDB: Loading buffer pool(s) from C:\Laragon\data\mariadb-10.8\ib_buffer_pool
+2022-07-03  0:28:39 0 [Note] InnoDB: Buffer pool(s) load completed at 220703  0:28:39
+2022-07-03  0:28:39 0 [Note] Server socket created on IP: '::'.
+2022-07-03  0:28:39 0 [Note] Server socket created on IP: '0.0.0.0'.
+2022-07-03  0:28:39 0 [Note] C:\Laragon\bin\mysql\mariadb-10.8-winx64\bin\mysqld: ready for connections.
+Version: '10.8.3-MariaDB-log'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-07-03  0:29:23 4 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
