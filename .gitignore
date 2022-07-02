@@ -1,11 +1,11 @@
-/**/tmp/
+/**/tmp/*
 
-*.log
-.history
-ConEmu.xml
-user-ConEmu.xml
+**/*.log
+**/.history
+**/ConEmu.xml
+**/user-ConEmu.xml
 session.xml
 bin/laragon/laragon.cmd
-bin/mysql/mariadb-10.8-winx64/data/
-bin/apache/httpd-2.4.47-win64-VS16/logs/
-usr/
+bin/mysql/mariadb-10.8-winx64/data/**
+bin/apache/httpd-2.4.47-win64-VS16/logs/**
+usr/**
