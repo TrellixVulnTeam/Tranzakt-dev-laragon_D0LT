@@ -3,11 +3,11 @@
 **/ConEmu.xml
 **/user-ConEmu.xml
 /**/tmp/*
-bin/apache/httpd-2.4.47-win64-VS16/logs/**
 bin/laragon/laragon.cmd
 bin/mysql/mariadb-10.8-winx64/data/**
-bin/notepad*/*.xml
-data/**
+data/**/**
 session.xml
 tmp/**
 usr/**
+/bin/**/httpd.pid
+/bin/notepad++/config.xml
