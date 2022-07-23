@@ -11,3 +11,4 @@ tmp/**
 usr/**
 /bin/**/httpd.pid
 /bin/notepad++/config.xml
+bin/apache/httpd-2.4.54-win64-VS16/logs/httpd.pid
